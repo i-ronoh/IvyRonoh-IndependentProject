@@ -7,6 +7,7 @@
 .nav{
     display: flex;
     justify-content: space-between;
+    margin: 0px 30px;
 }
 
 .menu{
@@ -15,18 +16,107 @@
 .ringared{
     color: red;
 }
+
+/* BUTTONS */
 .belly{
     background-color: red;
     color: white;
     padding: 15px 15px;
     border-radius: 10px;
     border: 2px solid white;
-    font-size: 20px;
-    
+    font-size: 20px;   
 }
+.bb{
+    background-color: white;
+    color: red;
+    padding: 15px 15px;
+    border-radius: 0;
+    border: 2px solid red;
+    font-size: 20px;   
+}
+
 /* Bevel the button edges */
 
 .link {
     text-decoration: none;
     color: black;
 }
+
+.footer-wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 400px;
+}
+
+.nurturing-image{
+    height: 450px;
+    width: 450px;
+}
+
+.orientation-image {
+    height: 350px;
+    width:  500px;
+}
+
+#dimples{
+    color:#ff0150;
+    font-size: larger;
+
+}
+
+.mahogany{
+    padding-top: 100px;
+
+}
+.jam{
+    font-size: x-large;
+
+}
+
+.tm {
+    width: 10px;
+    height: 10px;
+}
+
+.mentor{
+    display: flex;
+    justify-content: center;
+}
+
+.mentor-item {
+    width: 300px;
+}
+
+.footer-wrapper {
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #D3D3D3;
+    text-align: center;
+    justify-content: center;  
+}
+
+.contact {
+    color: red;
+}
+
+.header {
+    font-size: 35px;
+}
+
+.semi-header{
+    color: grey;
+}
+
+.profile {
+    width: 200px;
+    height: 150px;
+}
+/* .paragraph-1{
+    font-size: 24px;
+} */
