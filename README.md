@@ -1,6 +1,12 @@
-# IvyRonoh-IndependentProject
+# Project Name: 
+IvyRonoh-IndependentProject
+
+#### Description
 This is Ivy Ronoh's end of week 1 project that was done using html and css. 
 Moringa pre-prep end of week one project.
+
+#### Author
+Ivy J. Ronoh
 
 #### Setup
 
