@@ -7,6 +7,9 @@ Moringa pre-prep end of week one project.
 -Entry file to html is the index.html. 
 -Entry file to css is index.css.
 
+#### Live Link
+https://i-ronoh.github.io/IvyRonoh-IndependentProject/index
+
 #### License
 MIT License
 
