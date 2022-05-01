@@ -1,0 +1,32 @@
+*{
+    font-family:"Nunito", sans;
+}
+
+/*Change/Import font*/
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    align-self: center;
+}
+.ringared{
+    color: red;
+}
+.belly{
+    background-color: red;
+    color: white;
+    padding: 15px 15px;
+    border-radius: 10px;
+    border: 2px solid white;
+    font-size: 20px;
+    
+}
+/* Bevel the button edges */
+
+.link {
+    text-decoration: none;
+    color: black;
+}
