@@ -30,3 +30,10 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+### Technology  Used
+* HTML - which was used to develop the structure off the pages.
+* CSS - which was used to style the User Interface.
+
+## Authors Info
+Slack Profile - [Ivy Ronoh](https://app.slack.com/client/T0101L740P4/D03D3MZE875/user_profile/U03DGAU6989)
